@@ -1,0 +1,2 @@
+este es el setup de mi app web
+quiero moveralo al stagin area y al local repsitory para despues moverlo al WD.git stat
